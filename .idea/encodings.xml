@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/api-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/api-gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bank-account/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bank-account/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/crypto-conversion/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/crypto-conversion/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/crypto-exchange/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/crypto-exchange/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/crypto-wallet/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/currency-conversion/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/currency-conversion/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/currency-exchange/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/naming-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/naming-server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/trade-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/transfer-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/transfer-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
